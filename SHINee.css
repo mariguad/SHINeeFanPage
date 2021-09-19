@@ -2,6 +2,18 @@
     Property: value;
 }*/
 
+.blink {
+    animation: blinker 2s linear infinite;
+    color: blue;
+}
+
+@keyframes blinker {
+  75% {
+    opacity: 0;
+    
+   }
+} 
+
 body {
   background-color: #a6ebd5c4;
 }
