@@ -1,0 +1,27 @@
+/*Selector {
+    Property: value;
+}*/
+
+body {
+    background-image: url(Website\ Images/RoseBackground.jpeg);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgba(216, 120, 216, 0.35);
+}
+
+li {
+    list-style: none;
+    text-align: right;
+    display: inline-block;
+}
+
+p {
+    text-align: center;
+    font-size: 22px;
+    font-family: "Carattere", Cursive;
+}

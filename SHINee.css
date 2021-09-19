@@ -1,0 +1,29 @@
+/*Selector {
+    Property: value;
+}*/
+
+body {
+  background-color: #a6ebd5c4;
+}
+
+p {
+  text-align: left;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+#GroupPic {
+  width: auto;
+  height: 400px;
+}
+
+img {
+  width: 400px;
+  height: auto;
+  object-fit: cover;
+  margin: 10px;
+}
